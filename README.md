@@ -17,8 +17,7 @@ Use 'e' and 'z' to rotate the object around its x-axis.
 
 Have fun!
 
-![42.fdf map](/png/Schermafbeelding/ 2022-02-16/ om/ 22.05.12.png)
-
+![42.fdf map](/png/42.png)
 
 ### Progress
 
