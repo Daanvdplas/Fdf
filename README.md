@@ -17,7 +17,7 @@ Use 'e' and 'z' to rotate the object around its x-axis.
 
 Have fun!
 
-![alt text](https://github.com/Daanvdplas/Pipex.git/blob/image.jpg?raw=true)
+(https://github.com/Daanvdplas/Pipex.git/image.jpg?raw=true)
 
 
 ### Progress
